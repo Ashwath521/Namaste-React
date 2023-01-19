@@ -1,0 +1,2 @@
+https://www.cloudflare.com/learning/cdn/what-is-a-cdn/
+https://www.wpbeginner.com/beginners-guide/why-you-need-a-cdn-for-your-wordpress-blog-infographic/#:~:text=CDN%20is%20short%20for%20Content,on%20the%20user's%20geographic%20location.
