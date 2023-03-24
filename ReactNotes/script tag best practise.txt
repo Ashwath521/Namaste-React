@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/436411/where-should-i-put-script-tags-in-html-markup#:~:text=The%20script%20tag%20should%20always,and%20later%20JavaScript%20will%20load.

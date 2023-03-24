@@ -1,0 +1,1 @@
+https://www.keycdn.com/support/cors#:~:text=Simple%20CORS%20example&text=domainy.com%20receives%20that%20request,origin%20requests%20are%20not%20allowed
